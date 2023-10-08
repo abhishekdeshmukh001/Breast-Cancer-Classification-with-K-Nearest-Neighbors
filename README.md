@@ -29,7 +29,19 @@ We will be using the following dataset:
 * Evaluated the KNN model's performance on the testing dataset using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 * Visualize performance metrics to gain insights into the model's strengths and weaknesses.
 
+## Screenshots
 
+- ***Histogram***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Breast-Cancer-Classification-with-K-Nearest-Neighbors/blob/main/Histogram.png?raw=true)
+
+- ***HeatMap***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Breast-Cancer-Classification-with-K-Nearest-Neighbors/blob/main/Heatmap.png?raw=true)
+
+- ***Histogram***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Breast-Cancer-Classification-with-K-Nearest-Neighbors/blob/main/Histogram2.png?raw=true)
 
 
 ## 🔗 Link
